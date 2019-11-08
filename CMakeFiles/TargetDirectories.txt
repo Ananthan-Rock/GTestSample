@@ -1,0 +1,4 @@
+/home/jenkins/Documents/GTestSample/CMakeFiles/rebuild_cache.dir
+/home/jenkins/Documents/GTestSample/CMakeFiles/edit_cache.dir
+/home/jenkins/Documents/GTestSample/CMakeFiles/ParameterizedTestExamples.dir
+/home/jenkins/Documents/GTestSample/CMakeFiles/test.dir
