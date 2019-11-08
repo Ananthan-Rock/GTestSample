@@ -22,6 +22,7 @@ sudo make
 sudo cp *.a /usr/lib
 
 **Above steps can be ignored for new cmake file**
+
 Compile and run the tests: 
 
 cmake CMakeLists.txt
