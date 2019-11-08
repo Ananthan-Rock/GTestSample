@@ -21,10 +21,11 @@ sudo make
 
 sudo cp *.a /usr/lib
 
-Compile and run the tests:
+**Above steps can be ignored for new cmake file**
+Compile and run the tests: 
 
 cmake CMakeLists.txt
 
 make
 
-./runTests
+./ParameterizedTestExamples
